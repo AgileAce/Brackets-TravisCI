@@ -1,0 +1,26 @@
+{
+  "name": "Brackets-TravisCI",
+  "version": "0.1",
+  "description": "TravisCI Integration for Brackets editor",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/AgileAce/Brackets-TravisCI"
+  },
+  "keywords": [
+    "travis-ci",
+    "travis",
+    "travisci",
+    "ci",
+    "continuous",
+    "integration",
+    "brackets",
+    "ide"
+  ],
+  "author": "Cas du Plessis <cas@agileace.com>",
+  "readmeFilename": "README.md",
+  "homepage": "https://github.com/AgileAce/Brackets-TravisCI",
+  "bugs": "https://github.com/AgileAce/Brackets-TravisCI/issues",
+  "dependencies": {
+    "travis-ci": "latest"
+}
