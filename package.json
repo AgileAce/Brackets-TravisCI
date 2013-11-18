@@ -22,6 +22,6 @@
   "homepage": "https://github.com/AgileAce/Brackets-TravisCI",
   "bugs": "https://github.com/AgileAce/Brackets-TravisCI/issues",
   "dependencies": {
-    "travis-ci": "*"
+    "travis-ci": "1.1.1"
   }
 }
