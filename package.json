@@ -1,6 +1,6 @@
 {
   "name": "Brackets-TravisCI",
-  "version": "0.1",
+  "version": "0.0.1",
   "description": "TravisCI Integration for Brackets editor",
   "main": "app.js",
   "repository": {
@@ -22,5 +22,6 @@
   "homepage": "https://github.com/AgileAce/Brackets-TravisCI",
   "bugs": "https://github.com/AgileAce/Brackets-TravisCI/issues",
   "dependencies": {
-    "travis-ci": "latest"
+    "travis-ci": "*"
+  }
 }
